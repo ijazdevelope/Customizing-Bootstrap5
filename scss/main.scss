@@ -96,6 +96,7 @@ $utilities: map-merge(
       property: background-color,
       class: bg,
       responsive: true,
+      state: hover,
       values: (
         'red': red,
         'gray': gray,
